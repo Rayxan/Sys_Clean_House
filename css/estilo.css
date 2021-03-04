@@ -1,0 +1,58 @@
+/*
+ * style.css 
+ */
+.navbar-header a {
+    color: white;
+}
+.navbar-header a:hover {
+    color: #adadad;
+}
+.nav.navbar-nav.navbar-right li a {
+    color: white;
+}
+.nav.navbar-nav.navbar-right li a:hover {
+    color: #adadad;
+}
+#ctexto{
+    color: blue;
+}
+  
+ul.square{
+    list-style-type: square;
+}
+
+#box{
+    width:300px;
+    height:200px;
+    background-color: whitesmoke;
+    border-radius: 10px;
+}
+
+fieldset.centro{
+    width: 40%;
+    text-align: center;
+    margin-bottom: 50px;
+    margin-left: 380px;
+    background-image: url(../Imagens/dicas-para-limpeza-de-superficies-g-8906.png);
+    background-size: 600px;
+    background-repeat: no-repeat;
+    color: black;
+}
+body{
+    
+    background-color: appworkspace;
+    
+}
+
+.input_txt{
+    border-radius: 4px 4px 4px 4px;
+    -webkit-border-radius: 4px 4px 4px 4px;
+    -moz-border-radius: 4px 4px 4px 4px;
+   border: 1px solid #BBBDBF;
+   height: 33px;
+}
+
+#formlogin
+{
+    margin-bottom: 10px;
+}
