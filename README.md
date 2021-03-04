@@ -9,4 +9,4 @@ A aplicação Clean House foi desenvolvida para interligar um profissional (diar
 
 Tela principal: 
 
-![Screenshot](https://raw.github.com/ruanlsdn/Sys_Clean_House/blob/main/telas/paginaInicial.jpg)
+![Screenshot](https://github.com/ruanlsdn/Sys_Clean_House/blob/main/telas/paginaInicial.jpg)
